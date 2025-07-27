@@ -1,0 +1,6 @@
+/.github/android
+/.github/Makefile
+/.github/temp
+/.github/vendor
+/.vscode
+/src/vendor
